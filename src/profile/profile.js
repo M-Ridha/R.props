@@ -32,7 +32,13 @@ profili.propTypes ={
     job:PropTypes.string,
 }
 
-
+profili.defaultProps = {
+    fullName: "Mouhamed Ridha",
+    old : 27,
+    hobby : "photography",
+    job : "marine mechanic" 
+    ,
+   };
 
 
 
