@@ -37,8 +37,7 @@ profili.defaultProps = {
     old : 27,
     hobby : "photography",
     job : "marine mechanic" 
-    ,
-   };
+    };
 
 
 
